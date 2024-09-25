@@ -4029,3 +4029,857 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.09.25-18.29.28:473][873]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/15KXHPOQV4WSCTAXUT3J08_Auto173F35B3A4AD4DCEEB9A0DBAB4603FFB4.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/GJ/15KXHPOQV4WSCTAXUT3J08_Auto1.uasset'
 [2024.09.25-18.29.28:478][873]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/GDW_Tutorial_Base' took 0.051
 [2024.09.25-18.29.28:478][873]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2024.09.25-18.33.26:759][800]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.33.29:687][891]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.33.32:068][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Turret/Bullet/BP_Bullet.BP_Bullet
+[2024.09.25-18.33.32:068][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.33.32:068][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.25-18.33.33:977][ 89]LogViewport: Scene viewport resized to 1520x1132, mode Windowed.
+[2024.09.25-18.34.30:321][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.34.30:472][832]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/Bullet/BP_Bullet
+[2024.09.25-18.34.30:475][832]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_BulletB611CE154BD7CA4F4004ED99C271DD83.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/Bullet/BP_Bullet.uasset'
+[2024.09.25-18.34.30:501][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 4.77 sec)
+[2024.09.25-18.34.30:507][832]AssetCheck: New page: Asset Save: BP_Bullet
+[2024.09.25-18.34.30:507][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/Bullet/BP_Bullet.BP_Bullet
+[2024.09.25-18.34.38:455][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.48:164][688]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.25-18.34.48:175][688]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.25-18.34.48:180][688]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.25-18.34.48:180][688]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.25-18.34.48:180][688]LogWorldPartition: Display: GetPartitionedActors took 39 us (total: 636 us)
+[2024.09.25-18.34.48:509][688]LogWorldPartition: Display: GenerateStreaming took 329 ms (total: 4.65 sec)
+[2024.09.25-18.34.48:520][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.25-18.34.48:521][688]PIE: New page: PIE session: GDW_Tutorial_Base (Sep. 25, 2024, 10:34:48 a.m.)
+[2024.09.25-18.34.48:521][688]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.34.48:547][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024927s)
+[2024.09.25-18.34.48:547][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/GDW_Tutorial_Base.GDW_Tutorial_Base to /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base (0.024983s)
+[2024.09.25-18.34.48:547][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.34.48:547][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.25-18.34.48:547][688]LogAIModule: Creating AISystem for world GDW_Tutorial_Base
+[2024.09.25-18.34.48:548][688]LogWorldPartition: ULevel::OnLevelLoaded(GDW_Tutorial_Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.25-18.34.48:548][688]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.25-18.34.48:548][688]LogWorldPartition: UWorldPartition::Initialize(Asset=GDW_Tutorial_Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.25-18.34.48:552][688]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Creating new contrainer.
+[2024.09.25-18.34.48:552][688]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.93 sec)
+[2024.09.25-18.34.48:552][688]LogPlayLevel: PIE: World Init took: (0.005668s)
+[2024.09.25-18.34.48:575][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.09.25-18.34.48:580][688]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.25-18.34.48:581][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.25-18.34.48:581][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.25-18.34.48:581][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.25-18.34.48:581][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.25-18.34.48:581][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.25-18.34.48:583][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.25-18.34.48:619][688]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.09.25-18.34.48:619][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.25-18.34.48:619][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.25-18.34.48:620][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.25-18.34.48:622][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.09.25-18.34.48:622][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.09.25-18.34.48:624][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.09.25-18.34.48:624][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.09.25-18.34.48:624][688]LogInit: FAudioDevice initialized with ID 19.
+[2024.09.25-18.34.48:624][688]LogAudio: Display: Audio Device (ID: 19) registered with world 'GDW_Tutorial_Base'.
+[2024.09.25-18.34.48:624][688]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.09.25-18.34.48:627][688]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.25-18.34.48:628][688]LogWorld: Bringing World /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base up for play (max tick rate 0) at 2024.09.25-14.34.48
+[2024.09.25-18.34.48:629][688]LogWorld: Bringing up level for play took: 0.001358
+[2024.09.25-18.34.48:631][688]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.09.25-18.34.48:633][688]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2024.09.25-18.34.48:633][688]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-230.000 Y=340.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.09.25-18.34.48:637][688]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/33/T9XFTE568R7YI5SXFQMHIF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/10/HWNOWWX6DZYNPOE54XI6CA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/RL/XB1CLP4L573WHFYRG6J0KC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/LC/9LG8BSVFPI184VZ9Y9G7MT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/GK/6KJRDGA67XXOEYCOOLNZ4E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/B9/D67YROFIO7N5IOGFUI0LE9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/AL/1ACPWG5341WB74K7ZZ1TVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/4F/QUT5PXRDIIQ3CL82X2B50T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/LK/Z1DV844D2C3ZYRQ9FKAEFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/FJ/KG28W41921WJNVRQEWXTCS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/BG/FYUOOORKX0KBS51004BKXE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/8C/NXXFVEQHHGDCQM7UYWN5SL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/3R/JCJ06FMOG6ZBB12DEFCYNC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/2W/6EIXK35YEMS8PMW9XO0OMN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/W4/UABX46W2CVO20DWG3CHK2E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/M4/JIX9BA2DZN6ZRJ8Y9E0PU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/JN/8G2EXFAON4JAXG9KOJFKFE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/3Z/UMU0UJLHQOBYDMOXTG4XRH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/YQ/H4EVM20TYCE0KZOUULVB6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/XD/XQD7UQA9UPGC42XU8G0RXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/WU/LT68KXHIFNDZ3F0XJ0D30M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/P1/C8YF1L7YN1L836N4FVEAVY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NS/TMTFLZJ59U3WZRM08PDOCL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NH/O114VCOTBWYFPWIQ0IXXVT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/EY/CFC90FPC7P52AQTHG3O5C1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/91/DWTMC6M5DZ1APY07DO6E0G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/4R/MWG09AF1OX1ZNEBZWGIC6J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/3E/9QQHA72EU1GS7ULHFMZ0Y1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/6C/TCYBL13JRVIYMR5A0B51CO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/WR/23N8IIDR2LKM7AQWSVEQWL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/OD/A4IQ1GK5Z8WLMCB139R4DZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/JR/X5S1H06KNZ5D9MB53C30GL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8P/J8NFS0IALX4NPLMZ7TU479.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8M/UYKDIF31U7DV7OGDP7M2TW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/7T/66A6M1CRRCRB0C2UN7OORH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/38/DBVVK53X5F696PHR9MD5VU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/JW/NJ2DF6YATBPLBHKXVNL97H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/87/0873BSDC08476O5VAP99FE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/3G/2ICKGXLP2AFTS2N5OFOH78.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/08/VCNNXLAZEFJP38GZLT848I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/VQ/139YZ9DOHU35LGNIMCEBWJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/FR/N89YOMI0WCVLSFMYDV58ZP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/80/S360ES0UHBORA5DRQ5N8TS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/V4/6J6SBP1TGKRE1N2YSSJ1G8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/0O/JLADNZ9IWQO7FOEYLYX40G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/WC/12DZ4Q4257P52PERHNCTPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/CV/7OWKEFFETAC0K5LSE618U1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/BI/QXYJJAKFX9VR356N34M4BC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/9J/L9OUDKGK4TCUK62SYI421Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:926][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/4/9H/7FW5R1HIPN0P37QGV9QGZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5I/TZ73VXL44VOQ85UV2FLACK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5D/NS8NLRP07KF3FJ5JO063G5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/3J/FZZ3MMF1RQZIYBLU7Y87B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/ZS/8RHRJ9OF5GWF1P1ITG30AW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/RM/0DJ58MX6I0FZIJKOLEYLL2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/OC/6R7AELFDQDTH9IOVQD8KSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/M7/GNFXXQ00HDW4Q5NNN917LL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/77/K4TNBNY124NIF8H9WTSDHU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/YF/P8CDSBHCXPSCTYKXIMCZRA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/LG/LMVF62FRTKA35DNWAJWOF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/GD/906GCOWMP8DBXISOCAC022.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/06/ZRLAHE9V5O7E921O6XFM8B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/VS/HEKISBORJZZSKH1T2F5HAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:927][688]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/3G/XJF6LGXHB7924RBF482XDV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.34.48:989][688]PIE: Server logged in
+[2024.09.25-18.34.48:990][688]PIE: Play in editor total start time 0.814 seconds.
+[2024.09.25-18.34.49:002][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:003][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:003][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:004][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:004][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:005][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:006][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:006][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:006][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:007][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:007][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:008][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:008][688]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:600][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:600][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:600][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:601][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:601][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:602][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:602][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:603][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:603][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:604][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:604][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:605][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.49:605][689]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.54:480][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.57:378][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.34.57:378][909]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.34.57:427][909]LogWorld: UWorld::CleanupWorld for GDW_Tutorial_Base, bSessionEnded=true, bCleanupResources=true
+[2024.09.25-18.34.57:427][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.34.57:428][909]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Deleting container.
+[2024.09.25-18.34.57:435][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.25-18.34.57:443][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.34.57:473][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.25-18.34.57:476][909]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.09.25-18.34.57:476][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.09.25-18.34.57:478][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.09.25-18.34.57:484][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.34.57:501][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.09.25-18.34.57:596][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.34.57:612][910]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.09.25-18.34.57:629][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.35.47:340][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.35.47:520][503]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.35.47:522][503]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_Turret12BA8D784BCD17F321254B8877B1370C.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.35.47:567][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 5.00 sec)
+[2024.09.25-18.35.47:574][503]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.35.47:574][503]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.36.03:161][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.36.03:327][343]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.36.03:330][343]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_Turret751CD23941B64427B68A2D8E48D6B4B6.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.36.03:359][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 5.20 sec)
+[2024.09.25-18.36.03:366][343]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.36.03:366][343]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.36.06:780][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.36.06:950][491]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.36.06:953][491]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_TurretADE2C84B4FAC47455CD400AE0ECA8ACC.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.36.06:981][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 5.40 sec)
+[2024.09.25-18.36.06:989][491]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.36.06:989][491]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.37.04:641][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.37.04:762][786]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.37.04:764][786]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_Turret34FF41EE43BCC36C604D61BFD14820A3.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.37.04:791][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 5.55 sec)
+[2024.09.25-18.37.04:798][786]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.37.04:798][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.37.08:095][976]BlueprintLog: New page: Compile BP_Turret
+[2024.09.25-18.37.08:165][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.09.25-18.37.08:975][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.37.09:138][ 20]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.37.09:140][ 20]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_TurretB8E0876549D1FEFCC37E7E9C10234C26.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.37.09:164][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 5.74 sec)
+[2024.09.25-18.37.09:172][ 20]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.37.09:172][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.37.10:716][ 79]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.25-18.37.10:727][ 79]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.25-18.37.10:733][ 79]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.25-18.37.10:733][ 79]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.25-18.37.10:733][ 79]LogWorldPartition: Display: GetPartitionedActors took 42 us (total: 679 us)
+[2024.09.25-18.37.11:064][ 79]LogWorldPartition: Display: GenerateStreaming took 331 ms (total: 4.98 sec)
+[2024.09.25-18.37.11:066][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.25-18.37.11:066][ 79]PIE: New page: PIE session: GDW_Tutorial_Base (Sep. 25, 2024, 10:37:11 a.m.)
+[2024.09.25-18.37.11:066][ 79]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.37.11:088][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021972s)
+[2024.09.25-18.37.11:088][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/GDW_Tutorial_Base.GDW_Tutorial_Base to /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base (0.022005s)
+[2024.09.25-18.37.11:088][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.37.11:088][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.25-18.37.11:088][ 79]LogAIModule: Creating AISystem for world GDW_Tutorial_Base
+[2024.09.25-18.37.11:089][ 79]LogWorldPartition: ULevel::OnLevelLoaded(GDW_Tutorial_Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.25-18.37.11:089][ 79]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.25-18.37.11:089][ 79]LogWorldPartition: UWorldPartition::Initialize(Asset=GDW_Tutorial_Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.25-18.37.11:093][ 79]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Creating new contrainer.
+[2024.09.25-18.37.11:093][ 79]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.93 sec)
+[2024.09.25-18.37.11:093][ 79]LogPlayLevel: PIE: World Init took: (0.005238s)
+[2024.09.25-18.37.11:114][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.09.25-18.37.11:116][ 79]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.25-18.37.11:116][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.25-18.37.11:116][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.25-18.37.11:117][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.25-18.37.11:117][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.25-18.37.11:117][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.25-18.37.11:119][ 79]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.25-18.37.11:149][ 79]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.09.25-18.37.11:150][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.25-18.37.11:150][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.25-18.37.11:150][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.25-18.37.11:151][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.09.25-18.37.11:151][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.09.25-18.37.11:153][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.09.25-18.37.11:153][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.09.25-18.37.11:153][ 79]LogInit: FAudioDevice initialized with ID 20.
+[2024.09.25-18.37.11:153][ 79]LogAudio: Display: Audio Device (ID: 20) registered with world 'GDW_Tutorial_Base'.
+[2024.09.25-18.37.11:153][ 79]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.09.25-18.37.11:222][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.37.11:222][ 79]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.25-18.37.11:223][ 79]LogWorld: Bringing World /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base up for play (max tick rate 0) at 2024.09.25-14.37.11
+[2024.09.25-18.37.11:223][ 79]LogWorld: Bringing up level for play took: 0.001073
+[2024.09.25-18.37.11:225][ 79]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.09.25-18.37.11:227][ 79]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2024.09.25-18.37.11:227][ 79]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-230.000 Y=340.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.09.25-18.37.11:231][ 79]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/33/T9XFTE568R7YI5SXFQMHIF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/10/HWNOWWX6DZYNPOE54XI6CA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/RL/XB1CLP4L573WHFYRG6J0KC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/LC/9LG8BSVFPI184VZ9Y9G7MT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/GK/6KJRDGA67XXOEYCOOLNZ4E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/B9/D67YROFIO7N5IOGFUI0LE9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/AL/1ACPWG5341WB74K7ZZ1TVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/4F/QUT5PXRDIIQ3CL82X2B50T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/LK/Z1DV844D2C3ZYRQ9FKAEFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/FJ/KG28W41921WJNVRQEWXTCS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/BG/FYUOOORKX0KBS51004BKXE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/8C/NXXFVEQHHGDCQM7UYWN5SL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/3R/JCJ06FMOG6ZBB12DEFCYNC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/2W/6EIXK35YEMS8PMW9XO0OMN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/W4/UABX46W2CVO20DWG3CHK2E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/M4/JIX9BA2DZN6ZRJ8Y9E0PU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/JN/8G2EXFAON4JAXG9KOJFKFE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/3Z/UMU0UJLHQOBYDMOXTG4XRH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/YQ/H4EVM20TYCE0KZOUULVB6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/XD/XQD7UQA9UPGC42XU8G0RXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/WU/LT68KXHIFNDZ3F0XJ0D30M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/P1/C8YF1L7YN1L836N4FVEAVY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NS/TMTFLZJ59U3WZRM08PDOCL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NH/O114VCOTBWYFPWIQ0IXXVT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/EY/CFC90FPC7P52AQTHG3O5C1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/91/DWTMC6M5DZ1APY07DO6E0G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/4R/MWG09AF1OX1ZNEBZWGIC6J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:467][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/3E/9QQHA72EU1GS7ULHFMZ0Y1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/6C/TCYBL13JRVIYMR5A0B51CO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/WR/23N8IIDR2LKM7AQWSVEQWL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/OD/A4IQ1GK5Z8WLMCB139R4DZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/JR/X5S1H06KNZ5D9MB53C30GL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8P/J8NFS0IALX4NPLMZ7TU479.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8M/UYKDIF31U7DV7OGDP7M2TW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/7T/66A6M1CRRCRB0C2UN7OORH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/38/DBVVK53X5F696PHR9MD5VU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/JW/NJ2DF6YATBPLBHKXVNL97H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/87/0873BSDC08476O5VAP99FE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/3G/2ICKGXLP2AFTS2N5OFOH78.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/08/VCNNXLAZEFJP38GZLT848I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/VQ/139YZ9DOHU35LGNIMCEBWJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/FR/N89YOMI0WCVLSFMYDV58ZP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/80/S360ES0UHBORA5DRQ5N8TS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/V4/6J6SBP1TGKRE1N2YSSJ1G8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/0O/JLADNZ9IWQO7FOEYLYX40G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/WC/12DZ4Q4257P52PERHNCTPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/CV/7OWKEFFETAC0K5LSE618U1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/BI/QXYJJAKFX9VR356N34M4BC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/9J/L9OUDKGK4TCUK62SYI421Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/4/9H/7FW5R1HIPN0P37QGV9QGZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5I/TZ73VXL44VOQ85UV2FLACK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5D/NS8NLRP07KF3FJ5JO063G5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/3J/FZZ3MMF1RQZIYBLU7Y87B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/ZS/8RHRJ9OF5GWF1P1ITG30AW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/RM/0DJ58MX6I0FZIJKOLEYLL2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/OC/6R7AELFDQDTH9IOVQD8KSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/M7/GNFXXQ00HDW4Q5NNN917LL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/77/K4TNBNY124NIF8H9WTSDHU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/YF/P8CDSBHCXPSCTYKXIMCZRA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/LG/LMVF62FRTKA35DNWAJWOF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/GD/906GCOWMP8DBXISOCAC022.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/06/ZRLAHE9V5O7E921O6XFM8B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/VS/HEKISBORJZZSKH1T2F5HAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:468][ 79]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/3G/XJF6LGXHB7924RBF482XDV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.11:521][ 79]PIE: Server logged in
+[2024.09.25-18.37.11:522][ 79]PIE: Play in editor total start time 0.795 seconds.
+[2024.09.25-18.37.11:557][ 79]LogViewport: Scene viewport resized to 1445x1320, mode Windowed.
+[2024.09.25-18.37.13:229][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.37.13:229][110]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.37.13:229][110]LogSlate: Window 'GDW5_Tutorial_Proj Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.09.25-18.37.13:285][110]LogWorld: UWorld::CleanupWorld for GDW_Tutorial_Base, bSessionEnded=true, bCleanupResources=true
+[2024.09.25-18.37.13:286][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.37.13:286][110]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Deleting container.
+[2024.09.25-18.37.13:292][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.25-18.37.13:298][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.37.13:329][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.25-18.37.13:332][110]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.09.25-18.37.13:332][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.09.25-18.37.13:334][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.09.25-18.37.13:354][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.09.25-18.37.13:441][111]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.09.25-18.37.14:303][163]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.26:206][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.26:446][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.37.26:571][746]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/GJ/15KXHPOQV4WSCTAXUT3J08
+[2024.09.25-18.37.26:573][746]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/15KXHPOQV4WSCTAXUT3J08F4AFE4D74C462974A8783A81D4355BDC.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/__ExternalActors__/Level/GDW_Tutorial_Base/A/GJ/15KXHPOQV4WSCTAXUT3J08.uasset'
+[2024.09.25-18.37.26:620][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 5.91 sec)
+[2024.09.25-18.37.26:626][746]AssetCheck: New page: Asset Save: BP_Turret_C_UAID_90E8685BB4F49D1F02_1322281864
+[2024.09.25-18.37.26:626][746]LogContentValidation: Display: Validating /Game/Blueprints/Turret/BP_Turret.BP_Turret_C /Game/Level/GDW_Tutorial_Base.GDW_Tutorial_Base:PersistentLevel.BP_Turret_C_UAID_90E8685BB4F49D1F02_1322281864
+[2024.09.25-18.37.27:322][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.25-18.37.27:333][782]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.25-18.37.27:339][782]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.25-18.37.27:339][782]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.25-18.37.27:339][782]LogWorldPartition: Display: GetPartitionedActors took 60 us (total: 739 us)
+[2024.09.25-18.37.27:599][782]LogWorldPartition: Display: GenerateStreaming took 260 ms (total: 5.24 sec)
+[2024.09.25-18.37.27:600][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.25-18.37.27:600][782]PIE: New page: PIE session: GDW_Tutorial_Base (Sep. 25, 2024, 10:37:27 a.m.)
+[2024.09.25-18.37.27:600][782]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.37.27:626][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024836s)
+[2024.09.25-18.37.27:626][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/GDW_Tutorial_Base.GDW_Tutorial_Base to /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base (0.024869s)
+[2024.09.25-18.37.27:626][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.37.27:626][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.25-18.37.27:627][782]LogAIModule: Creating AISystem for world GDW_Tutorial_Base
+[2024.09.25-18.37.27:627][782]LogWorldPartition: ULevel::OnLevelLoaded(GDW_Tutorial_Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.25-18.37.27:628][782]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.25-18.37.27:628][782]LogWorldPartition: UWorldPartition::Initialize(Asset=GDW_Tutorial_Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.25-18.37.27:632][782]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Creating new contrainer.
+[2024.09.25-18.37.27:632][782]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 1.93 sec)
+[2024.09.25-18.37.27:632][782]LogPlayLevel: PIE: World Init took: (0.005719s)
+[2024.09.25-18.37.27:653][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.09.25-18.37.27:657][782]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.25-18.37.27:657][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.25-18.37.27:657][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.25-18.37.27:657][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.25-18.37.27:657][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.25-18.37.27:657][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.25-18.37.27:660][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.25-18.37.27:689][782]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.09.25-18.37.27:689][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.25-18.37.27:689][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.25-18.37.27:689][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.25-18.37.27:691][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.09.25-18.37.27:691][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.09.25-18.37.27:692][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.09.25-18.37.27:692][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.09.25-18.37.27:692][782]LogInit: FAudioDevice initialized with ID 21.
+[2024.09.25-18.37.27:692][782]LogAudio: Display: Audio Device (ID: 21) registered with world 'GDW_Tutorial_Base'.
+[2024.09.25-18.37.27:692][782]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.09.25-18.37.27:696][782]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.25-18.37.27:697][782]LogWorld: Bringing World /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base up for play (max tick rate 0) at 2024.09.25-14.37.27
+[2024.09.25-18.37.27:697][782]LogWorld: Bringing up level for play took: 0.001182
+[2024.09.25-18.37.27:699][782]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.09.25-18.37.27:701][782]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2024.09.25-18.37.27:701][782]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-230.000 Y=340.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.09.25-18.37.27:704][782]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/33/T9XFTE568R7YI5SXFQMHIF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/10/HWNOWWX6DZYNPOE54XI6CA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/RL/XB1CLP4L573WHFYRG6J0KC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/LC/9LG8BSVFPI184VZ9Y9G7MT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/GK/6KJRDGA67XXOEYCOOLNZ4E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/B9/D67YROFIO7N5IOGFUI0LE9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/AL/1ACPWG5341WB74K7ZZ1TVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/4F/QUT5PXRDIIQ3CL82X2B50T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/LK/Z1DV844D2C3ZYRQ9FKAEFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/FJ/KG28W41921WJNVRQEWXTCS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/BG/FYUOOORKX0KBS51004BKXE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/8C/NXXFVEQHHGDCQM7UYWN5SL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/3R/JCJ06FMOG6ZBB12DEFCYNC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/2W/6EIXK35YEMS8PMW9XO0OMN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/W4/UABX46W2CVO20DWG3CHK2E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/M4/JIX9BA2DZN6ZRJ8Y9E0PU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/JN/8G2EXFAON4JAXG9KOJFKFE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/3Z/UMU0UJLHQOBYDMOXTG4XRH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/YQ/H4EVM20TYCE0KZOUULVB6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/XD/XQD7UQA9UPGC42XU8G0RXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/WU/LT68KXHIFNDZ3F0XJ0D30M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/P1/C8YF1L7YN1L836N4FVEAVY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NS/TMTFLZJ59U3WZRM08PDOCL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NH/O114VCOTBWYFPWIQ0IXXVT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/EY/CFC90FPC7P52AQTHG3O5C1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/91/DWTMC6M5DZ1APY07DO6E0G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/4R/MWG09AF1OX1ZNEBZWGIC6J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/3E/9QQHA72EU1GS7ULHFMZ0Y1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/6C/TCYBL13JRVIYMR5A0B51CO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/WR/23N8IIDR2LKM7AQWSVEQWL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/OD/A4IQ1GK5Z8WLMCB139R4DZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/JR/X5S1H06KNZ5D9MB53C30GL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8P/J8NFS0IALX4NPLMZ7TU479.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8M/UYKDIF31U7DV7OGDP7M2TW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/7T/66A6M1CRRCRB0C2UN7OORH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/38/DBVVK53X5F696PHR9MD5VU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/JW/NJ2DF6YATBPLBHKXVNL97H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/87/0873BSDC08476O5VAP99FE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/3G/2ICKGXLP2AFTS2N5OFOH78.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/08/VCNNXLAZEFJP38GZLT848I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/VQ/139YZ9DOHU35LGNIMCEBWJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/FR/N89YOMI0WCVLSFMYDV58ZP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/80/S360ES0UHBORA5DRQ5N8TS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/V4/6J6SBP1TGKRE1N2YSSJ1G8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:939][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/0O/JLADNZ9IWQO7FOEYLYX40G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/WC/12DZ4Q4257P52PERHNCTPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/CV/7OWKEFFETAC0K5LSE618U1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/BI/QXYJJAKFX9VR356N34M4BC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/9J/L9OUDKGK4TCUK62SYI421Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/4/9H/7FW5R1HIPN0P37QGV9QGZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5I/TZ73VXL44VOQ85UV2FLACK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5D/NS8NLRP07KF3FJ5JO063G5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/3J/FZZ3MMF1RQZIYBLU7Y87B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/ZS/8RHRJ9OF5GWF1P1ITG30AW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/RM/0DJ58MX6I0FZIJKOLEYLL2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/OC/6R7AELFDQDTH9IOVQD8KSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/M7/GNFXXQ00HDW4Q5NNN917LL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/77/K4TNBNY124NIF8H9WTSDHU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/YF/P8CDSBHCXPSCTYKXIMCZRA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/LG/LMVF62FRTKA35DNWAJWOF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/GD/906GCOWMP8DBXISOCAC022.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/06/ZRLAHE9V5O7E921O6XFM8B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/VS/HEKISBORJZZSKH1T2F5HAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.27:940][782]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/3G/XJF6LGXHB7924RBF482XDV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.28:003][782]PIE: Server logged in
+[2024.09.25-18.37.28:004][782]PIE: Play in editor total start time 0.671 seconds.
+[2024.09.25-18.37.28:016][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:016][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:017][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:017][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:018][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:018][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:019][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:019][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:020][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:020][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/67/T6ZIWRQ9W0TO5EWWTXHAQF' is in a memory-only mount point.
+[2024.09.25-18.37.28:023][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:476][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/67/T6ZIWRQ9W0TO5EWWTXHAQF' is in a memory-only mount point.
+[2024.09.25-18.37.28:476][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:477][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:477][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:478][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:478][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:479][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:480][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:480][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:480][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:481][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:482][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.28:483][783]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:754][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:754][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:755][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/67/T6ZIWRQ9W0TO5EWWTXHAQF' is in a memory-only mount point.
+[2024.09.25-18.37.34:755][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:756][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:756][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:757][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:757][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:758][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:759][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:759][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:759][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:762][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:771][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:772][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:773][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/67/T6ZIWRQ9W0TO5EWWTXHAQF' is in a memory-only mount point.
+[2024.09.25-18.37.34:773][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:774][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:774][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:774][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:775][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:775][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:776][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:777][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:777][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:779][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:830][  9]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X3_Y-1 took (less than) 25.03 ms
+[2024.09.25-18.37.34:851][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:852][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:852][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/67/T6ZIWRQ9W0TO5EWWTXHAQF' is in a memory-only mount point.
+[2024.09.25-18.37.34:853][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:853][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:854][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:854][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:855][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:855][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:856][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:856][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:857][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.34:858][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:504][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:504][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:505][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:505][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:506][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:506][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:849][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:850][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:850][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:851][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:851][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:852][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:852][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:853][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:854][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:854][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:855][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:856][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-1_InstanceOf_/Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/67/T6ZIWRQ9W0TO5EWWTXHAQF' is in a memory-only mount point.
+[2024.09.25-18.37.35:857][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.35:859][ 67]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.36:257][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.37.36:257][ 89]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.37.36:294][ 89]LogWorld: UWorld::CleanupWorld for GDW_Tutorial_Base, bSessionEnded=true, bCleanupResources=true
+[2024.09.25-18.37.36:294][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.37.36:294][ 89]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Deleting container.
+[2024.09.25-18.37.36:301][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.25-18.37.36:307][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.37.36:337][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.25-18.37.36:340][ 89]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.09.25-18.37.36:340][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.09.25-18.37.36:342][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.09.25-18.37.36:347][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.37.36:363][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.09.25-18.37.36:441][ 89]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.36:458][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.09.25-18.37.36:483][ 90]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.25-18.37.52:836][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.37.53:028][770]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.37.53:030][770]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_Turret04C870714598D7316A021B93DB3A1FF9.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.37.53:057][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 6.14 sec)
+[2024.09.25-18.37.53:064][770]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.37.53:064][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.37.53:953][824]BlueprintLog: New page: Compile BP_Turret
+[2024.09.25-18.37.54:015][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.09.25-18.37.54:893][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.25-18.37.54:904][873]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.25-18.37.54:911][873]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.25-18.37.54:911][873]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.25-18.37.54:911][873]LogWorldPartition: Display: GetPartitionedActors took 67 us (total: 807 us)
+[2024.09.25-18.37.55:230][873]LogWorldPartition: Display: GenerateStreaming took 319 ms (total: 5.56 sec)
+[2024.09.25-18.37.55:232][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.25-18.37.55:232][873]PIE: New page: PIE session: GDW_Tutorial_Base (Sep. 25, 2024, 10:37:55 a.m.)
+[2024.09.25-18.37.55:232][873]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.37.55:254][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022892s)
+[2024.09.25-18.37.55:254][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/GDW_Tutorial_Base.GDW_Tutorial_Base to /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base (0.022925s)
+[2024.09.25-18.37.55:254][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.37.55:254][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.25-18.37.55:255][873]LogAIModule: Creating AISystem for world GDW_Tutorial_Base
+[2024.09.25-18.37.55:256][873]LogWorldPartition: ULevel::OnLevelLoaded(GDW_Tutorial_Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.25-18.37.55:256][873]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.25-18.37.55:256][873]LogWorldPartition: UWorldPartition::Initialize(Asset=GDW_Tutorial_Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.25-18.37.55:259][873]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Creating new contrainer.
+[2024.09.25-18.37.55:259][873]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.94 sec)
+[2024.09.25-18.37.55:259][873]LogPlayLevel: PIE: World Init took: (0.005228s)
+[2024.09.25-18.37.55:283][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.09.25-18.37.55:285][873]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.09.25-18.37.55:285][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.25-18.37.55:285][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.25-18.37.55:286][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.25-18.37.55:286][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.25-18.37.55:286][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.25-18.37.55:286][873]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.25-18.37.55:286][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.25-18.37.55:286][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.25-18.37.55:286][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.25-18.37.55:286][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.25-18.37.55:286][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.25-18.37.55:288][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.25-18.37.55:315][873]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.09.25-18.37.55:316][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.25-18.37.55:316][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.25-18.37.55:316][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.25-18.37.55:317][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.09.25-18.37.55:317][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.09.25-18.37.55:318][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.09.25-18.37.55:318][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.09.25-18.37.55:318][873]LogInit: FAudioDevice initialized with ID 22.
+[2024.09.25-18.37.55:318][873]LogAudio: Display: Audio Device (ID: 22) registered with world 'GDW_Tutorial_Base'.
+[2024.09.25-18.37.55:318][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.09.25-18.37.55:390][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.37.55:390][873]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.25-18.37.55:391][873]LogWorld: Bringing World /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base up for play (max tick rate 0) at 2024.09.25-14.37.55
+[2024.09.25-18.37.55:391][873]LogWorld: Bringing up level for play took: 0.001047
+[2024.09.25-18.37.55:393][873]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.09.25-18.37.55:395][873]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2024.09.25-18.37.55:395][873]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-230.000 Y=340.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.09.25-18.37.55:399][873]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/33/T9XFTE568R7YI5SXFQMHIF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/10/HWNOWWX6DZYNPOE54XI6CA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/RL/XB1CLP4L573WHFYRG6J0KC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/LC/9LG8BSVFPI184VZ9Y9G7MT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/GK/6KJRDGA67XXOEYCOOLNZ4E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/B9/D67YROFIO7N5IOGFUI0LE9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/AL/1ACPWG5341WB74K7ZZ1TVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/4F/QUT5PXRDIIQ3CL82X2B50T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/LK/Z1DV844D2C3ZYRQ9FKAEFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/FJ/KG28W41921WJNVRQEWXTCS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/BG/FYUOOORKX0KBS51004BKXE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/8C/NXXFVEQHHGDCQM7UYWN5SL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/3R/JCJ06FMOG6ZBB12DEFCYNC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/2W/6EIXK35YEMS8PMW9XO0OMN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/W4/UABX46W2CVO20DWG3CHK2E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/M4/JIX9BA2DZN6ZRJ8Y9E0PU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/JN/8G2EXFAON4JAXG9KOJFKFE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/3Z/UMU0UJLHQOBYDMOXTG4XRH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/YQ/H4EVM20TYCE0KZOUULVB6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/XD/XQD7UQA9UPGC42XU8G0RXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/WU/LT68KXHIFNDZ3F0XJ0D30M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/P1/C8YF1L7YN1L836N4FVEAVY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NS/TMTFLZJ59U3WZRM08PDOCL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NH/O114VCOTBWYFPWIQ0IXXVT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/EY/CFC90FPC7P52AQTHG3O5C1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/91/DWTMC6M5DZ1APY07DO6E0G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/4R/MWG09AF1OX1ZNEBZWGIC6J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/3E/9QQHA72EU1GS7ULHFMZ0Y1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/6C/TCYBL13JRVIYMR5A0B51CO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/WR/23N8IIDR2LKM7AQWSVEQWL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/OD/A4IQ1GK5Z8WLMCB139R4DZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/JR/X5S1H06KNZ5D9MB53C30GL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8P/J8NFS0IALX4NPLMZ7TU479.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8M/UYKDIF31U7DV7OGDP7M2TW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/7T/66A6M1CRRCRB0C2UN7OORH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:640][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/38/DBVVK53X5F696PHR9MD5VU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/JW/NJ2DF6YATBPLBHKXVNL97H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/87/0873BSDC08476O5VAP99FE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/3G/2ICKGXLP2AFTS2N5OFOH78.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/08/VCNNXLAZEFJP38GZLT848I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/VQ/139YZ9DOHU35LGNIMCEBWJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/FR/N89YOMI0WCVLSFMYDV58ZP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/80/S360ES0UHBORA5DRQ5N8TS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/V4/6J6SBP1TGKRE1N2YSSJ1G8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/0O/JLADNZ9IWQO7FOEYLYX40G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/WC/12DZ4Q4257P52PERHNCTPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/CV/7OWKEFFETAC0K5LSE618U1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/BI/QXYJJAKFX9VR356N34M4BC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/9J/L9OUDKGK4TCUK62SYI421Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/4/9H/7FW5R1HIPN0P37QGV9QGZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5I/TZ73VXL44VOQ85UV2FLACK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5D/NS8NLRP07KF3FJ5JO063G5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/3J/FZZ3MMF1RQZIYBLU7Y87B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/ZS/8RHRJ9OF5GWF1P1ITG30AW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/RM/0DJ58MX6I0FZIJKOLEYLL2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/OC/6R7AELFDQDTH9IOVQD8KSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/M7/GNFXXQ00HDW4Q5NNN917LL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/77/K4TNBNY124NIF8H9WTSDHU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/YF/P8CDSBHCXPSCTYKXIMCZRA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/LG/LMVF62FRTKA35DNWAJWOF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/GD/906GCOWMP8DBXISOCAC022.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/06/ZRLAHE9V5O7E921O6XFM8B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/VS/HEKISBORJZZSKH1T2F5HAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:641][873]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/3G/XJF6LGXHB7924RBF482XDV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.37.55:694][873]PIE: Server logged in
+[2024.09.25-18.37.55:694][873]PIE: Play in editor total start time 0.789 seconds.
+[2024.09.25-18.37.55:724][873]LogViewport: Scene viewport resized to 1448x1320, mode Windowed.
+[2024.09.25-18.37.58:561][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.37.58:562][927]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.37.58:562][927]LogSlate: Window 'GDW5_Tutorial_Proj Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.09.25-18.37.58:607][927]LogWorld: UWorld::CleanupWorld for GDW_Tutorial_Base, bSessionEnded=true, bCleanupResources=true
+[2024.09.25-18.37.58:608][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.37.58:608][927]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Deleting container.
+[2024.09.25-18.37.58:614][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.25-18.37.58:620][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.37.58:649][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.25-18.37.58:652][927]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.09.25-18.37.58:653][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.09.25-18.37.58:655][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.09.25-18.37.58:676][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.09.25-18.37.58:732][928]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.09.25-18.38.01:611][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.25-18.38.01:804][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/Turret/BP_Turret
+[2024.09.25-18.38.01:807][ 40]LogSavePackage: Moving '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/BP_Turret14FC638B4543B834D38C3FBDAB701889.tmp' to '../../../../../../Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Content/Blueprints/Turret/BP_Turret.uasset'
+[2024.09.25-18.38.01:832][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 6.36 sec)
+[2024.09.25-18.38.01:840][ 40]AssetCheck: New page: Asset Save: BP_Turret
+[2024.09.25-18.38.01:840][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret/BP_Turret.BP_Turret
+[2024.09.25-18.38.02:862][ 98]BlueprintLog: New page: Compile BP_Turret
+[2024.09.25-18.38.02:920][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.09.25-18.38.03:691][138]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.25-18.38.03:701][138]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.25-18.38.03:705][138]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.25-18.38.03:705][138]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.25-18.38.03:705][138]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 843 us)
+[2024.09.25-18.38.03:943][138]LogWorldPartition: Display: GenerateStreaming took 238 ms (total: 5.80 sec)
+[2024.09.25-18.38.03:944][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.25-18.38.03:944][138]PIE: New page: PIE session: GDW_Tutorial_Base (Sep. 25, 2024, 10:38:03 a.m.)
+[2024.09.25-18.38.03:944][138]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.38.03:964][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019272s)
+[2024.09.25-18.38.03:964][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/GDW_Tutorial_Base.GDW_Tutorial_Base to /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base (0.019324s)
+[2024.09.25-18.38.03:964][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.25-18.38.03:964][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.25-18.38.03:965][138]LogAIModule: Creating AISystem for world GDW_Tutorial_Base
+[2024.09.25-18.38.03:965][138]LogWorldPartition: ULevel::OnLevelLoaded(GDW_Tutorial_Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.25-18.38.03:965][138]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.25-18.38.03:965][138]LogWorldPartition: UWorldPartition::Initialize(Asset=GDW_Tutorial_Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.25-18.38.03:969][138]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Creating new contrainer.
+[2024.09.25-18.38.03:969][138]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.94 sec)
+[2024.09.25-18.38.03:969][138]LogPlayLevel: PIE: World Init took: (0.004699s)
+[2024.09.25-18.38.03:990][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.09.25-18.38.03:993][138]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.25-18.38.03:993][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.25-18.38.03:993][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.25-18.38.03:993][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.25-18.38.03:993][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.25-18.38.03:993][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.25-18.38.03:996][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.25-18.38.04:020][138]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.09.25-18.38.04:021][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.25-18.38.04:021][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.25-18.38.04:021][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.25-18.38.04:022][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.09.25-18.38.04:022][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.09.25-18.38.04:022][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.09.25-18.38.04:022][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.09.25-18.38.04:022][138]LogInit: FAudioDevice initialized with ID 23.
+[2024.09.25-18.38.04:022][138]LogAudio: Display: Audio Device (ID: 23) registered with world 'GDW_Tutorial_Base'.
+[2024.09.25-18.38.04:022][138]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.09.25-18.38.04:084][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.38.04:084][138]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.25-18.38.04:086][138]LogWorld: Bringing World /Game/Level/UEDPIE_0_GDW_Tutorial_Base.GDW_Tutorial_Base up for play (max tick rate 0) at 2024.09.25-14.38.04
+[2024.09.25-18.38.04:086][138]LogWorld: Bringing up level for play took: 0.001640
+[2024.09.25-18.38.04:089][138]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.09.25-18.38.04:091][138]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2024.09.25-18.38.04:091][138]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-230.000 Y=340.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.09.25-18.38.04:094][138]LogStreaming: Display: FlushAsyncLoading(-1): 41 QueuedPackages, 0 AsyncPackages
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/33/T9XFTE568R7YI5SXFQMHIF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/F/10/HWNOWWX6DZYNPOE54XI6CA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/RL/XB1CLP4L573WHFYRG6J0KC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/LC/9LG8BSVFPI184VZ9Y9G7MT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/GK/6KJRDGA67XXOEYCOOLNZ4E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/B9/D67YROFIO7N5IOGFUI0LE9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/AL/1ACPWG5341WB74K7ZZ1TVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/E/4F/QUT5PXRDIIQ3CL82X2B50T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/LK/Z1DV844D2C3ZYRQ9FKAEFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/FJ/KG28W41921WJNVRQEWXTCS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/BG/FYUOOORKX0KBS51004BKXE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/8C/NXXFVEQHHGDCQM7UYWN5SL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/3R/JCJ06FMOG6ZBB12DEFCYNC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/D/2W/6EIXK35YEMS8PMW9XO0OMN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/W4/UABX46W2CVO20DWG3CHK2E.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/M4/JIX9BA2DZN6ZRJ8Y9E0PU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/JN/8G2EXFAON4JAXG9KOJFKFE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/C/3Z/UMU0UJLHQOBYDMOXTG4XRH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/YQ/H4EVM20TYCE0KZOUULVB6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/XD/XQD7UQA9UPGC42XU8G0RXK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/WU/LT68KXHIFNDZ3F0XJ0D30M.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/P1/C8YF1L7YN1L836N4FVEAVY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NS/TMTFLZJ59U3WZRM08PDOCL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/NH/O114VCOTBWYFPWIQ0IXXVT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/EY/CFC90FPC7P52AQTHG3O5C1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/91/DWTMC6M5DZ1APY07DO6E0G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/4R/MWG09AF1OX1ZNEBZWGIC6J.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/B/3E/9QQHA72EU1GS7ULHFMZ0Y1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/A/6C/TCYBL13JRVIYMR5A0B51CO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/WR/23N8IIDR2LKM7AQWSVEQWL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/OD/A4IQ1GK5Z8WLMCB139R4DZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/JR/X5S1H06KNZ5D9MB53C30GL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8P/J8NFS0IALX4NPLMZ7TU479.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/8M/UYKDIF31U7DV7OGDP7M2TW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/7T/66A6M1CRRCRB0C2UN7OORH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/9/38/DBVVK53X5F696PHR9MD5VU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/JW/NJ2DF6YATBPLBHKXVNL97H.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/87/0873BSDC08476O5VAP99FE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/3G/2ICKGXLP2AFTS2N5OFOH78.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:293][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/8/08/VCNNXLAZEFJP38GZLT848I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/VQ/139YZ9DOHU35LGNIMCEBWJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/FR/N89YOMI0WCVLSFMYDV58ZP.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/7/80/S360ES0UHBORA5DRQ5N8TS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/V4/6J6SBP1TGKRE1N2YSSJ1G8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/6/0O/JLADNZ9IWQO7FOEYLYX40G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/WC/12DZ4Q4257P52PERHNCTPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/CV/7OWKEFFETAC0K5LSE618U1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/BI/QXYJJAKFX9VR356N34M4BC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/5/9J/L9OUDKGK4TCUK62SYI421Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/4/9H/7FW5R1HIPN0P37QGV9QGZX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5I/TZ73VXL44VOQ85UV2FLACK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/5D/NS8NLRP07KF3FJ5JO063G5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/3/3J/FZZ3MMF1RQZIYBLU7Y87B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/ZS/8RHRJ9OF5GWF1P1ITG30AW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/RM/0DJ58MX6I0FZIJKOLEYLL2.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/OC/6R7AELFDQDTH9IOVQD8KSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/M7/GNFXXQ00HDW4Q5NNN917LL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/2/77/K4TNBNY124NIF8H9WTSDHU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/YF/P8CDSBHCXPSCTYKXIMCZRA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/LG/LMVF62FRTKA35DNWAJWOF4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/GD/906GCOWMP8DBXISOCAC022.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/1/06/ZRLAHE9V5O7E921O6XFM8B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/VS/HEKISBORJZZSKH1T2F5HAW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:294][138]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Level/GDW_Tutorial_Base/0/3G/XJF6LGXHB7924RBF482XDV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.09.25-18.38.04:351][138]PIE: Server logged in
+[2024.09.25-18.38.04:352][138]PIE: Play in editor total start time 0.651 seconds.
+[2024.09.25-18.38.04:383][138]LogViewport: Scene viewport resized to 1451x1320, mode Windowed.
+[2024.09.25-18.38.11:586][348]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X0_Y-4 took (less than) 41.25 ms
+[2024.09.25-18.38.12:854][386]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X3_Y0 took (less than) 45.81 ms
+[2024.09.25-18.38.12:892][387]LogStreaming: Display: UWorld::AddToWorld: updating components for /Memory/UEDPIE_0_GDW_Tutorial_Base_MainGrid_L0_X3_Y0 took (less than) 20.77 ms
+[2024.09.25-18.38.17:042][513]LogCharacterMovement: BP_FPCharacter_C_0 is stuck and failed to move! Velocity: X=574.24 Y=-173.92 Z=0.00 Location: X=410.14 Y=-314.59 Z=88.43 Normal: X=-0.69 Y=0.03 Z=-0.72 PenetrationDepth:5.684 Actor:BP_Bullet_C_25 Component:Sphere BoneName:None (0 other events since notify)
+[2024.09.25-18.38.20:653][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.25-18.38.20:653][620]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_GDW_Tutorial_Base
+[2024.09.25-18.38.20:653][620]LogSlate: Window 'GDW5_Tutorial_Proj Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.09.25-18.38.20:697][620]LogWorld: UWorld::CleanupWorld for GDW_Tutorial_Base, bSessionEnded=true, bCleanupResources=true
+[2024.09.25-18.38.20:697][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.38.20:697][620]LogContentBundle: [GDW_Tutorial_Base(Standalone)] Deleting container.
+[2024.09.25-18.38.20:704][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.25-18.38.20:712][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.25-18.38.20:747][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.25-18.38.20:749][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.09.25-18.38.20:750][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.09.25-18.38.20:752][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.09.25-18.38.20:775][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.09.25-18.38.20:855][621]LogPlayLevel: Display: Destroying online subsystem :Context_30
