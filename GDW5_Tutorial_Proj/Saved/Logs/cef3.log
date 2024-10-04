@@ -1,1 +1,35 @@
-[1002/141044.664:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1003/222705.031:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1003/222714.954:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1003/222714.974:ERROR:entry_impl.cc(1075)] No file for c10303ac
+[1003/222714.974:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.974:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.974:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.974:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.974:ERROR:entry_impl.cc(1075)] No file for c10303b6
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:ERROR:entry_impl.cc(1075)] No file for c10303aa
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:ERROR:entry_impl.cc(1075)] No file for c10303a8
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:ERROR:entry_impl.cc(1075)] No file for c10303ae
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222714.975:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222715.002:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/222725.852:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1003/222811.033:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1003/222811.044:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1003/222839.981:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 129
+[1003/222840.335:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1003/222840.345:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1003/222906.209:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

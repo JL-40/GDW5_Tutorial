@@ -1,3 +1,2 @@
-2024/10/02-14:08:44.593 56d0 Reusing MANIFEST C:/Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/10/02-14:08:44.599 56d0 Recovering log #3
-2024/10/02-14:08:44.601 56d0 Reusing old log C:/Users/Jegg/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/10/03-22:27:09.154 befc Creating DB C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/10/03-22:27:09.182 befc Reusing MANIFEST C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
