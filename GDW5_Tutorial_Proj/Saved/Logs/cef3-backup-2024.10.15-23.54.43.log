@@ -1,0 +1,5 @@
+[1015/195440.355:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1015/195440.356:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Cache to C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\old_Cache_000
+[1015/195440.356:ERROR:disk_cache.cc(184)] Unable to create cache
+[1015/195442.762:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1015/195443.460:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)

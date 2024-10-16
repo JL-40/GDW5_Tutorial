@@ -1,6 +1,0 @@
-2024/10/15-19:06:30.679 d404 Reusing MANIFEST C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/10/15-19:06:30.777 d404 Recovering log #3
-2024/10/15-19:06:30.778 d404 Reusing old log C:/Users/BlackIce/Documents/GitHub/GDW5_Tutorial/GDW5_Tutorial_Proj/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2024/10/15-19:49:33.566 fa48 Level-0 table #5: started
-2024/10/15-19:49:33.612 fa48 Level-0 table #5: 21335 bytes OK
-2024/10/15-19:49:33.614 fa48 Delete type=0 #3
